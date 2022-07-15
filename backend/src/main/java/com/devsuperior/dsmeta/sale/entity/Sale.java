@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.sale;
+package com.devsuperior.dsmeta.sale.entity;
 
 import javax.persistence.*;
 import java.io.Serializable;
