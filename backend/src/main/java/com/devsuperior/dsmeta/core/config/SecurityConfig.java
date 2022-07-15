@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.config;
+package com.devsuperior.dsmeta.core.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
