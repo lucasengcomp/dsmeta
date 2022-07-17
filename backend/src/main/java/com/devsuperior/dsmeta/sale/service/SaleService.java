@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.sale;
+package com.devsuperior.dsmeta.sale.service;
 
 import com.devsuperior.dsmeta.sale.entity.Sale;
 import com.devsuperior.dsmeta.sale.repository.SaleRepository;
